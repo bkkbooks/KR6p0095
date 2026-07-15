@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6p0095/v1
 canonical_location: https://kanripo.org/bkk/KR6p0095/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 淨土全書
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0095_000.yaml, hash: 'sha256:c149c27364019f08a634b8c97784cbbef73bbc709948fb154dffd9ab75ba1121'}
-  - {seq: 1, filename: KR6p0095_001.yaml, hash: 'sha256:2d153d2fc2a084da25aeb2099eabbd87a1e67a437087e69bc005453d255e3020'}
-  - {seq: 2, filename: KR6p0095_002.yaml, hash: 'sha256:f060682891f5d36e61f1910b685f97fceeffe4bea4fa9515ec386de460913785'}
+  - {seq: 0, filename: KR6p0095_000.yaml, hash: 'sha256:8bf9582660a5c5327bc7288b28c4e16d77e9c370225ce3867544307aa3cd7649'}
+  - {seq: 1, filename: KR6p0095_001.yaml, hash: 'sha256:a433cc70bf4de09432caf00ad75a65de96933cf6a9c27b294cb5460335782b8c'}
+  - {seq: 2, filename: KR6p0095_002.yaml, hash: 'sha256:123d7a89329b52fa945dad467c10a48cd09aa6a9d2c31a5cbb66722752757336'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0095_000.markers.yaml, hash: 'sha256:74a35efd6481be6dc3d12b6868393ff2243c5f5fc1460c7132f0104675bebb8d'}
-  - {seq: 1, role: markers, filename: assets/KR6p0095_001.markers.yaml, hash: 'sha256:71ff22c704c51ca3f7840a049ae56a4b461edb983d2081f9c66b475eac942c67'}
-  - {seq: 2, role: markers, filename: assets/KR6p0095_002.markers.yaml, hash: 'sha256:fae6c49daf4ff05e423b27d6ad259101350e32fa67f3a5e89fc4e07029340df2'}
+  - {seq: 0, role: markers, filename: assets/KR6p0095_000.markers.yaml, hash: 'sha256:f75e798962f3d801866350fe837131f000e080a8de0530e4933f571d8d9e6125'}
+  - {seq: 1, role: markers, filename: assets/KR6p0095_001.markers.yaml, hash: 'sha256:99196055e9f2117d551d6e067627a7ca31b93ead2a8cd8e5fb870fafc4d98276'}
+  - {seq: 2, role: markers, filename: assets/KR6p0095_002.markers.yaml, hash: 'sha256:ec86a12f7f207463b77cff57dcd0f92dc7b821a0ad80a393b530dc61c51e0e15'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2829,4 +2829,7 @@ table_of_contents:
   label: 歷代尊宿
   type: mulu
   level: 1
-hash: sha256:7991e3895f8f5a4fe90284e02b70c34ee6e328d8b9f36ad9ec1cbe5da17d1b23
+hash: sha256:0bccee0fe7f7d1727ff00f58f076075d96630d1a242e606fd3b1503ba491ce56
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

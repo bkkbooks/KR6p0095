@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0095_000.yaml, hash: 'sha256:8bf9582660a5c5327bc7288b28c4e16d77e9c370225ce3867544307aa3cd7649'}
+  - {seq: 0, filename: KR6p0095_000.yaml, hash: 'sha256:bd90e949103b208641a184d953f34de4451b662fee5a0427e0127040fea15421'}
   - {seq: 1, filename: KR6p0095_001.yaml, hash: 'sha256:a433cc70bf4de09432caf00ad75a65de96933cf6a9c27b294cb5460335782b8c'}
   - {seq: 2, filename: KR6p0095_002.yaml, hash: 'sha256:123d7a89329b52fa945dad467c10a48cd09aa6a9d2c31a5cbb66722752757336'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0095_000.markers.yaml, hash: 'sha256:f75e798962f3d801866350fe837131f000e080a8de0530e4933f571d8d9e6125'}
+  - {seq: 0, role: markers, filename: assets/KR6p0095_000.markers.yaml, hash: 'sha256:5bfa04a595309b50bd2871609855b6281595724114cace6ee14406cd26a11f86'}
   - {seq: 1, role: markers, filename: assets/KR6p0095_001.markers.yaml, hash: 'sha256:99196055e9f2117d551d6e067627a7ca31b93ead2a8cd8e5fb870fafc4d98276'}
   - {seq: 2, role: markers, filename: assets/KR6p0095_002.markers.yaml, hash: 'sha256:ec86a12f7f207463b77cff57dcd0f92dc7b821a0ad80a393b530dc61c51e0e15'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0095_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1176-A 淨土全書序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0095_X_000-mulu-2
     span:
-    - front
+    - body
     - 312
     - 312
   label: No. 1176-B 淨土全書序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0095_X_000-mulu-3
     span:
-    - front
+    - body
     - 597
     - 597
   label: No. 1176-C 淨土全書序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0095_X_000-mulu-4
     span:
-    - front
+    - body
     - 1032
     - 1032
   label: No. 1176-D 淨土全書序
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0095_X_000-mulu-5
     span:
-    - front
+    - body
     - 1476
     - 1476
   label: No. 1176-E 勸修淨土啟
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0095_X_000-mulu-6
     span:
-    - front
+    - body
     - 1702
     - 1702
   label: No. 1176-F 淨土文序
@@ -93,7 +93,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0095_X_000-mulu-7
     span:
-    - front
+    - body
     - 2086
     - 2086
   label: No. 1176-G 重刊龍舒淨土文序
@@ -103,7 +103,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0095_X_000-mulu-8
     span:
-    - front
+    - body
     - 2702
     - 2702
   label: No. 1176-H 重刊龍舒淨土文序
@@ -113,7 +113,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0095_X_000-mulu-9
     span:
-    - front
+    - body
     - 2995
     - 2995
   label: No. 1176-I 佛祖因緣
@@ -123,7 +123,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0095_X_000-mulu-10
     span:
-    - front
+    - body
     - 3318
     - 3318
   label: No. 1176-J 菩薩因緣
@@ -133,7 +133,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0095_X_000-mulu-11
     span:
-    - front
+    - body
     - 3537
     - 3537
   label: 淨土全書目次
@@ -2829,7 +2829,7 @@ table_of_contents:
   label: 歷代尊宿
   type: mulu
   level: 1
-hash: sha256:0bccee0fe7f7d1727ff00f58f076075d96630d1a242e606fd3b1503ba491ce56
+hash: sha256:437cc43b6a2e070ee17bbdc6adedfced4728a448a7a9f3dfd21a6ac5ccc17c8c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
